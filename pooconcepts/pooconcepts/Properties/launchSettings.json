@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "pooconcepts": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
